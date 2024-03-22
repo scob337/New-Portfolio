@@ -1,6 +1,6 @@
 Hi there!
 
-I'm a front-end developer passionate about building user-friendly and visually appealing web applications. I have 3+ years of experience in the industry, and I'm proficient in various technologies, including ### **` React, JavaScript, HTML, and CSS. Bootstrap , Redux toolkit`**
+I'm a front-end developer passionate about building user-friendly and visually appealing web applications.  I'm proficient in various technologies, including **` React, JavaScript, HTML, and CSS. Bootstrap , Redux toolkit`**
 
 I'm excited to share my portfolio with you. It includes a variety of projects that I've worked on, both personal and professional. Each project showcases my skills and abilities in different areas of front-end development.
 **Here are some of the highlights of my portfolio:**
