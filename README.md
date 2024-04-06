@@ -17,3 +17,4 @@ I developed a React-based project management application that allows users to tr
 
 I created a React-based personal website that showcases my skills, experience, and work. The website features a clean and modern design, a responsive layout, and a variety of interactive elements.
 I'm confident that my skills and experience would be valuable to your team. I'm a hard worker, I'm always willing to learn new things, and I'm passionate about building great products.
+Live Demo https://scob337.github.io/New-portfolio/
